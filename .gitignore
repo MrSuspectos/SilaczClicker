@@ -1,0 +1,27 @@
+# Ignoruj pliki i foldery NetBeans
+nbproject/private/
+private.properties
+private.xml
+# Ignoruj pliki build
+build/
+# Ignoruj pliki tymczasowe i systemowe
+*.class
+*.log
+*.tmp
+*.bak
+*.swp
+.DS_Store
+Thumbs.db
+# Ignoruj pliki IDE
+*.iml
+.idea/
+.vscode/
+# Ignoruj pliki konfiguracyjne użytkownika
+*.user
+*.suo
+*.db
+# Ignoruj pliki jar
+*.jar
+# Ignoruj katalogi generowane
+build/
+generated-sources/
